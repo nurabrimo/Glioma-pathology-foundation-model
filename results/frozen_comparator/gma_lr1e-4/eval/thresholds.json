@@ -1,0 +1,31 @@
+{
+ "rapid_reference": {
+  "npv": 0.8676844783715013,
+  "npv_lo": 0.8328950700925704,
+  "npv_hi": 0.902200488997555,
+  "ppv": 1.0,
+  "ppv_lo": 1.0,
+  "ppv_hi": 1.0,
+  "source": "ref=train+val+pretrial"
+ },
+ "level": "patient",
+ "most_conservative": {
+  "th0": 0.0025,
+  "th1": 0.998,
+  "npv": 0.8780487804878049,
+  "ppv": 1.0,
+  "se": 0.8979591836734694,
+  "sp": 1.0,
+  "reduction": 0.6705882352941176
+ },
+ "least_conservative": {
+  "th0": 0.0325,
+  "th1": 0.998,
+  "npv": 0.8372093023255814,
+  "ppv": 1.0,
+  "se": 0.8571428571428571,
+  "sp": 1.0,
+  "reduction": 0.7294117647058823
+ },
+ "pretrial_n": 85
+}

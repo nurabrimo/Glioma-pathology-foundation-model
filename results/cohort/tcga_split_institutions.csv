@@ -1,0 +1,30 @@
+split_group,n,mut,yr,split
+Asterand,2,2.0,2013.0,val
+CHI-Penrose Colorado,2,0.0,2009.5,train
+Case Western,178,117.0,2010.0,train
+Cedars Sinai,9,0.0,2009.0,train
+Christiana Healthcare,11,2.0,2009.0,train
+Cureline,14,13.0,2013.0,train
+Dept of Neurosurgery at University of Heidelberg,48,42.0,2011.5,pretrial
+Duke,60,15.0,2003.5,val
+Emory University,21,2.0,2005.0,train
+Fondazione-Besta,38,18.0,2013.0,silent
+Greenville Health System,1,1.0,2013.0,train
+Hartford,2,1.0,2013.0,silent
+Henry Ford Hospital,177,67.0,2006.0,train
+Huntsman Cancer Institute,8,6.0,2011.0,train
+International Genomics Consortium,2,1.0,2010.5,train
+John Wayne Cancer Center,2,2.0,2012.0,val
+Johns Hopkins,7,7.0,2010.0,val
+MD Anderson Cancer Center,42,9.0,2004.0,val
+MSKCC,14,13.0,2011.0,train
+Mayo Clinic - Rochester,37,33.0,2011.0,val
+St. Joseph's Hospital AZ,3,0.0,2010.0,pretrial
+The University of New South Wales,19,15.0,2012.0,train
+Thomas Jefferson University,20,14.0,2009.0,silent
+UCSF,35,8.0,2003.0,pretrial
+UNC,2,1.0,2011.5,silent
+University of Florida,27,15.0,2009.0,silent
+University of Kansas,1,1.0,2010.0,val
+University of Miami,3,0.0,2012.0,train
+University of Sao Paulo,17,16.0,2011.0,train

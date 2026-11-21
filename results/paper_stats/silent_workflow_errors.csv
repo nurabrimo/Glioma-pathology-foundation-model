@@ -1,0 +1,10 @@
+patient,institution,project,histology,who_class,IDH,idh_variant,rapid,score_ft,n_slides,n_tiles,route,point
+TCGA-CS-6666,Thomas Jefferson University,TCGA-LGG,astrocytoma,Astro-IDHmut,1,IDH1_R132C,0.0,0.668939,1,18691,stain,most_conservative
+TCGA-DH-A7UR,University of Florida,TCGA-LGG,oligodendroglioma,Oligo-IDHmut-codel,1,IDH2_R172G,0.0,0.812212,1,20544,stain,most_conservative
+TCGA-QH-A65X,Fondazione-Besta,TCGA-LGG,oligoastrocytoma,Oligo-IDHmut-codel,1,IDH2_R172K,0.0,0.874879,1,20121,stain,most_conservative
+TCGA-CS-6669,Thomas Jefferson University,TCGA-LGG,oligodendroglioma,IDHwt-other(IDHwt_other),0,WT,0.0,0.99945,1,11384,model-positive,most_conservative
+TCGA-26-1442,University of Florida,TCGA-GBM,glioblastoma,Astro-IDHmut,1,IDH1_R132H,1.0,0.023816,1,21762,model-negative,least_conservative
+TCGA-CS-6666,Thomas Jefferson University,TCGA-LGG,astrocytoma,Astro-IDHmut,1,IDH1_R132C,0.0,0.668939,1,18691,stain,least_conservative
+TCGA-DH-A7UR,University of Florida,TCGA-LGG,oligodendroglioma,Oligo-IDHmut-codel,1,IDH2_R172G,0.0,0.812212,1,20544,stain,least_conservative
+TCGA-QH-A65X,Fondazione-Besta,TCGA-LGG,oligoastrocytoma,Oligo-IDHmut-codel,1,IDH2_R172K,0.0,0.874879,1,20121,stain,least_conservative
+TCGA-CS-6669,Thomas Jefferson University,TCGA-LGG,oligodendroglioma,IDHwt-other(IDHwt_other),0,WT,0.0,0.99945,1,11384,model-positive,least_conservative

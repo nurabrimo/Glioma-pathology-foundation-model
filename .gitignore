@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+# EAGLE files fetched by code/fetch_eagle_files.sh (not redistributable)
+code/train/modules.py
+code/train/extra_transforms.py
+code/train/eagle_utils.py
+code/calib/utils.py
+code/calib/eagle_calib_orig.py
+code/calib/example_data.csv

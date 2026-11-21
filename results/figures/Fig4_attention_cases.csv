@@ -1,0 +1,5 @@
+case,slide,patient,institution,histology,who_class,idh_variant,score,n_tiles
+True positive,TCGA-EZ-7264-01Z-00-DX1.80a61d74-77d9-4998-bb55-213767a588ff,TCGA-EZ-7264,UNC,oligodendroglioma,Oligo-IDHmut-codel,IDH1_R132H,0.999991,8728
+True negative,TCGA-KT-A7W1-01Z-00-DX1.D416EFED-F654-433B-917C-A9BE98EAA760,TCGA-KT-A7W1,Hartford,astrocytoma,GBM-IDHwt,WT,3.1e-05,9542
+False positive,TCGA-CS-6669-01Z-00-DX1.B1D9D967-ED63-48F7-9E9F-12B3E74EB0E8,TCGA-CS-6669,Thomas Jefferson University,oligodendroglioma,IDHwt-other(IDHwt_other),WT,0.99945,11384
+False negative,TCGA-26-1442-01Z-00-DX1.FD8D4EB7-AD5E-49E8-BD0B-6CDDEA8DDB35,TCGA-26-1442,University of Florida,glioblastoma,Astro-IDHmut,IDH1_R132H,0.023816,21762
